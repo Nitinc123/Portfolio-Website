@@ -1,0 +1,1 @@
+A responsive and modern portfolio website to showcase my skills, projects, and contact details. Built using HTML, CSS, and JavaScript.
